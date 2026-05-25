@@ -1,0 +1,3 @@
+is_late_delivery,order_count,average_review_score,average_delivery_days,average_delay_days,delivery_status
+False,89944,4.290607893334526,10.539261252446185,-13.510262853584772,On time or early
+True,6534,2.2718225983388183,33.4880624426079,10.620140801958984,Late
