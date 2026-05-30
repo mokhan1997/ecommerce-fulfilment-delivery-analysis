@@ -50,8 +50,9 @@ The project uses the Olist Brazilian E-Commerce Public Dataset and demonstrates 
 
 ## Project Pipeline
 
-````text
 Raw CSV files → Python cleaning → Processed datasets → SQLite database → SQL views → Power BI dashboard
+
+---
 
 ## Key Outputs
 
@@ -78,18 +79,16 @@ This project includes the following completed outputs:
 
 The project includes three written report files:
 
-| Report | Purpose |
-|---|---|
-| [Executive Summary](reports/executive_summary.md) | Summarises the project purpose, dashboard KPIs, key findings, limitations and future improvements |
-| [Methodology](reports/methodology.md) | Explains the end-to-end project approach, tools, data preparation and analysis process |
-| [Business Recommendations](reports/business_recommendations.md) | Converts the analysis into practical actions for an e-commerce fulfilment or operations team |
+| Report                                                          | Purpose                                                                                           |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| [Executive Summary](reports/executive_summary.md)               | Summarises the project purpose, dashboard KPIs, key findings, limitations and future improvements |
+| [Methodology](reports/methodology.md)                           | Explains the end-to-end project approach, tools, data preparation and analysis process            |
+| [Business Recommendations](reports/business_recommendations.md) | Converts the analysis into practical actions for an e-commerce fulfilment or operations team      |
 
 ---
 
 ## Current Project Status
 
-Current stage:
+**Current stage:** Power BI dashboard created and documented.
 
-```text
-Power BI dashboard created and documented
-````
+**Next stage:** Final portfolio polish, CV project write-up and interview story.
